@@ -30,7 +30,3 @@ https://github.com/pH0enix46/Dice-game---JAVASCRIPT.git
 ## Acknowledgments
 My lovely teacher [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
-
-```
-Have a nice Day!😸
-```
