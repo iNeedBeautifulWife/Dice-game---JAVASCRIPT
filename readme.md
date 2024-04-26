@@ -8,25 +8,3 @@
 ## Dice-game---JAVASCRIPT
 
 ✅[View demo](https://ph0enix46.github.io/Dice-game---JAVASCRIPT/) 🐛[Bug report](https://github.com/pH0enix46/Dice-game---JAVASCRIPT/issues)
-
-
-## About
-It's a Basic Dice game based on some JAVASCRIPT ideas. It has a good-looking interface.
-
-
-### Screenshots
-![Dice game](dice-game-demo.png)
-
-## Installation
-
-Clone the repo
-```
-https://github.com/pH0enix46/Dice-game---JAVASCRIPT.git
-```
-
-✅Enjoy! for learning 
-
-❌But don't copy mine
-## Acknowledgments
-My lovely teacher [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
-
